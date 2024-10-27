@@ -1,3 +1,6 @@
+#CS340
+
+
 How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 
 I adhere to the best coding practices to ensure my programs are maintainable, readable, and adaptable. I write clear and concise code, include helpful comments, and use proper naming conventions. This approach makes it easier for other developers to maintain, read, and modify the code. These practices proved invaluable when extending the CRUD Python module from Project One into Project Two. They allowed me to connect dashboard widgets to a MongoDB database. Project One provided me with a general understanding of how Project Two would function, which simplified the process. The project is structured with separate functions that manage different CRUD operations, enhancing adaptability and integration with other applications, such as the dashboard widgets. Additionally, this modularity makes the code reusable and adaptable, meaning that if I want to build a new app for animals using the same database, the transition should be straightforward.
